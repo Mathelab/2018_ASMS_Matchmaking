@@ -1,6 +1,8 @@
 # Matchmaking session: Bridging the gap between computational biology and biology 
-## ASMS 2018, San Diego.
+### ASMS 2018, San Diego.
 ### Tuesday June 5th at 5:45-7pm, Room 32AB
+
+***We will be posting session information here so be sure to check back!***
 
 *Goal*: To foster communication and seed collaborations between bench scientists (chemists and biologists) and computational biologists, and to identify areas of needs for and how these needs can be met.  
 
