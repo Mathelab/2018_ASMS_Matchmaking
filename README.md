@@ -13,8 +13,8 @@
 ### This is a very interactive session and if you have a topic you’d like to introduce, let us know!
 
 #### Current group leaders:
-* **Ewy Mathé**, PhD, Assistant Professor, OSU; u.osu.edu/mathelab; ewy.mathe@osumc.edu
-* **Emmanuel Hatzakis**, PhD, Assistant Professor, OSU; chatzakis.1@osu.edu
+* **Ewy Mathé**, PhD, Assistant Professor, OSU, u.osu.edu/mathelab, ewy.mathe@osumc.edu
+* **Emmanuel Hatzakis**, PhD, Assistant Professor, OSU, chatzakis.1@osu.edu
 * **Rachel Kopec**, PhD, Assistant Professor of Human Nutrition, kopec.4@osu.edu
 * **Jeremy Koelmel**, PhD, Graduate Student, University of Florida, jeremykoelmel@chem.ufl.edu
 * **Michael Freitas**, PhD, Associate Professor, OSU, Michael.freitas@osumc.edu 
