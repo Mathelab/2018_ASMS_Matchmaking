@@ -16,5 +16,5 @@
 * **Ewy Mathé**, PhD, Assistant Professor, OSU, u.osu.edu/mathelab, ewy.mathe@osumc.edu
 * **Emmanuel Hatzakis**, PhD, Assistant Professor, OSU, chatzakis.1@osu.edu
 * **Rachel Kopec**, PhD, Assistant Professor of Human Nutrition, kopec.4@osu.edu
-* **Jeremy Koelmel**, PhD, Graduate Student, University of Florida, jeremykoelmel@chem.ufl.edu
+* **Jeremy Koelmel**, PhD, Adjunct Research Scientist, University of Florida, jeremykoelmel@chem.ufl.edu
 * **Michael Freitas**, PhD, Associate Professor, OSU, Michael.freitas@osumc.edu 
