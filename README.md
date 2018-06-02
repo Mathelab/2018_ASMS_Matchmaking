@@ -8,5 +8,11 @@
 
 *Topics*: integration of metabolomics data with other omics, metabolite pathway enrichment analysis, and integration of metabolomics data from different platforms. 
 
-###This is a very interactive session and if you have a topic you’d like to introduce, let us know. 
+### This is a very interactive session and if you have a topic you’d like to introduce, let us know!
 
+#### Current group leaders:
+Ewy Mathé, PhD, Assistant Professor, OSU; u.osu.edu/mathelab; ewy.mathe@osumc.edu
+Emmanuel Hatzakis, PhD, Assistant Professor, OSU; chatzakis.1@osu.edu
+Rachel Kopec, PhD, Assistant Professor of Human Nutrition, kopec.4@osu.edu
+Jeremy Koelmel, PhD, Graduate Student, University of Florida, jeremykoelmel@chem.ufl.edu
+Mike Freitas, PhD, Associate Professor, OSU, Michael.freitas@osumc.edu 
