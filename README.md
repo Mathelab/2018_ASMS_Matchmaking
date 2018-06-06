@@ -4,6 +4,8 @@
 
 ***[Click here to see the slides.](https://www.slideshare.net/MatheEwy/2018-asms-matchmaking-session)***
 
+***We'll be posting summaries of the session shortly but in the meantime, if you wish to post something, please contact Ewy (ewy.mathe@osumc.edu)***
+
 *Goal*: To foster communication and seed collaborations between bench scientists (chemists and biologists) and computational biologists, and to identify areas of needs for and how these needs can be met.  
 
 *Format*: short (~ 5 min) talks from discussion group leaders to introduce topics followed by group discussion led by the group leaders.  Each participant will have the opportunity to switch discussion groups and engage others around the topic.
